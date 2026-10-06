@@ -27,7 +27,6 @@ Examples:
 • Binance (USDT)
 • Solana Network
 • Esewa 
-• Any Nepal bank -10 rs 
 
 📊 Submit Via
 Google Sheets
